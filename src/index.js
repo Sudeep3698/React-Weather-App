@@ -1,9 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import 'bootstrap/dist/css/bootstrap.min.css'; 
+import "./App.css";
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-
+//Render the this component to this div element
+//Name of the component, Location where the component will be inserted
 ReactDOM.render(<App />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
