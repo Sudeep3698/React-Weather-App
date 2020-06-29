@@ -1,3 +1,46 @@
+This is an weather application for showing weather details based on the country and city provided in the application based on ReactJS fetching weather details from OpenweatherMap website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
