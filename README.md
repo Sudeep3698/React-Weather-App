@@ -1,6 +1,6 @@
 This is an weather application for showing weather details based on the country and city provided in the application based on ReactJS fetching weather details from [OpenweatherMap website](https://openweathermap.org/).
 
-
+![](file:///C:/Users/KIIT_Intern/Pictures/Screenshots/Screenshot%20(330).png)
 
 
 
